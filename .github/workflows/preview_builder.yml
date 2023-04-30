@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: '3.10'
       - name: build preview file
-        run: python .github/preview-builder.py --root ${{ github.workspace }}
+        run: python .github/preview-builder.py --root .
       - name: commit preview file
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
