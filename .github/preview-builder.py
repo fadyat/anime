@@ -10,7 +10,7 @@ def get_all_images_path(
     for path, _, files in os.walk(root):
         for file in files:
             if file.endswith(extensions):
-                yield file
+                yield os.path.join(path, file)
 
 
 def create_preview_content_markdown(
