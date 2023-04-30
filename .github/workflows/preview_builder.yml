@@ -1,0 +1,34 @@
+name: preview-builder
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-preview:
+    runs-on: ubuntu-latest
+    name: preview-builder
+    steps:
+      - name: setup git repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: build preview file
+        run: python .github/preview-builder.py --root ${{ github.workspace }}
+      - name: commit preview file
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'new anime is here!'
+          commit_options: '--no-verify'
+          commit_user_name: 'fadyat'
+          commit_user_email: 'fadyat@icloud.com'
+          branch: ${{ github.head_ref }}
+          file_pattern: PREVIEW.md
+          repository: .
+          skip_empty_commit: true
+      
