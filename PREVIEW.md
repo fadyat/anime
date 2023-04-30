@@ -1,13 +1,13 @@
 ## Available images
 
-[straight.png](straight.png)
+[/home/runner/work/anime/anime/homeart/straight.png](/home/runner/work/anime/anime/homeart/straight.png)
 
-<img src="straight.png" width="200" />
+<img src="/home/runner/work/anime/anime/homeart/straight.png" width="200" />
 
-[nezuko.png](nezuko.png)
+[/home/runner/work/anime/anime/anime-series/nezuko.png](/home/runner/work/anime/anime/anime-series/nezuko.png)
 
-<img src="nezuko.png" width="200" />
+<img src="/home/runner/work/anime/anime/anime-series/nezuko.png" width="200" />
 
-[nicerocket.webp](nicerocket.webp)
+[/home/runner/work/anime/anime/gameart/nicerocket.webp](/home/runner/work/anime/anime/gameart/nicerocket.webp)
 
-<img src="nicerocket.webp" width="200" />
+<img src="/home/runner/work/anime/anime/gameart/nicerocket.webp" width="200" />
