@@ -8,6 +8,10 @@
 
 <img src="./homeart/straight.png" width="200" />
 
+[./irl-series/daenerys.png](./irl-series/daenerys.png)
+
+<img src="./irl-series/daenerys.png" width="200" />
+
 [./gameart/nicerocket.webp](./gameart/nicerocket.webp)
 
 <img src="./gameart/nicerocket.webp" width="200" />
