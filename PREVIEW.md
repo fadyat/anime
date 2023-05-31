@@ -20,6 +20,10 @@
 
 <img src="./anime-series/nezuko.png" width="200" />
 
+[./anime-series/demon-of-angel.png](./anime-series/demon-of-angel.png)
+
+<img src="./anime-series/demon-of-angel.png" width="200" />
+
 [./anime-series/muichiro.png](./anime-series/muichiro.png)
 
 <img src="./anime-series/muichiro.png" width="200" />
