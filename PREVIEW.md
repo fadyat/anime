@@ -16,6 +16,10 @@
 
 <img src="./gameart/nicerocket.webp" width="200" />
 
+[./anime-series/tomoe_child.png](./anime-series/tomoe_child.png)
+
+<img src="./anime-series/tomoe_child.png" width="200" />
+
 [./anime-series/nezuko.png](./anime-series/nezuko.png)
 
 <img src="./anime-series/nezuko.png" width="200" />
@@ -27,3 +31,7 @@
 [./anime-series/muichiro.png](./anime-series/muichiro.png)
 
 <img src="./anime-series/muichiro.png" width="200" />
+
+[./anime-series/wei.png](./anime-series/wei.png)
+
+<img src="./anime-series/wei.png" width="200" />
