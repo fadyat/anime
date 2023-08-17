@@ -1,20 +1,20 @@
 ## Available images
 
-[./anime-series/demon-of-angel.png](./anime-series/demon-of-angel.png)
+[./gameart/angel.png](./gameart/angel.png)
 
-<img src="./anime-series/demon-of-angel.png" width="200" />
+<img src="./gameart/angel.png" width="200" />
 
-[./anime-series/grace.png](./anime-series/grace.png)
+[./gameart/nicerocket.webp](./gameart/nicerocket.webp)
 
-<img src="./anime-series/grace.png" width="200" />
+<img src="./gameart/nicerocket.webp" width="200" />
+
+[./irl-series/daenerys.png](./irl-series/daenerys.png)
+
+<img src="./irl-series/daenerys.png" width="200" />
 
 [./anime-series/tomoe_child.png](./anime-series/tomoe_child.png)
 
 <img src="./anime-series/tomoe_child.png" width="200" />
-
-[./anime-series/beatrice2.png](./anime-series/beatrice2.png)
-
-<img src="./anime-series/beatrice2.png" width="200" />
 
 [./anime-series/beatrice.png](./anime-series/beatrice.png)
 
@@ -24,9 +24,17 @@
 
 <img src="./anime-series/wei.png" width="200" />
 
-[./anime-series/demon-slayer/nezuko2.png](./anime-series/demon-slayer/nezuko2.png)
+[./anime-series/grace.png](./anime-series/grace.png)
 
-<img src="./anime-series/demon-slayer/nezuko2.png" width="200" />
+<img src="./anime-series/grace.png" width="200" />
+
+[./anime-series/beatrice2.png](./anime-series/beatrice2.png)
+
+<img src="./anime-series/beatrice2.png" width="200" />
+
+[./anime-series/demon-of-angel.png](./anime-series/demon-of-angel.png)
+
+<img src="./anime-series/demon-of-angel.png" width="200" />
 
 [./anime-series/demon-slayer/muichiro.png](./anime-series/demon-slayer/muichiro.png)
 
@@ -36,30 +44,22 @@
 
 <img src="./anime-series/demon-slayer/nezuko.png" width="200" />
 
-[./homeart/straight.png](./homeart/straight.png)
+[./anime-series/demon-slayer/nezuko2.png](./anime-series/demon-slayer/nezuko2.png)
 
-<img src="./homeart/straight.png" width="200" />
-
-[./homeart/flowers.png](./homeart/flowers.png)
-
-<img src="./homeart/flowers.png" width="200" />
-
-[./homeart/blue-hoodie.webp](./homeart/blue-hoodie.webp)
-
-<img src="./homeart/blue-hoodie.webp" width="200" />
+<img src="./anime-series/demon-slayer/nezuko2.png" width="200" />
 
 [./homeart/flowers-with-stars.png](./homeart/flowers-with-stars.png)
 
 <img src="./homeart/flowers-with-stars.png" width="200" />
 
-[./irl-series/daenerys.png](./irl-series/daenerys.png)
+[./homeart/straight.png](./homeart/straight.png)
 
-<img src="./irl-series/daenerys.png" width="200" />
+<img src="./homeart/straight.png" width="200" />
 
-[./gameart/angel.png](./gameart/angel.png)
+[./homeart/blue-hoodie.webp](./homeart/blue-hoodie.webp)
 
-<img src="./gameart/angel.png" width="200" />
+<img src="./homeart/blue-hoodie.webp" width="200" />
 
-[./gameart/nicerocket.webp](./gameart/nicerocket.webp)
+[./homeart/flowers.png](./homeart/flowers.png)
 
-<img src="./gameart/nicerocket.webp" width="200" />
+<img src="./homeart/flowers.png" width="200" />
