@@ -3,7 +3,7 @@ name: preview-builder
 on:
   push:
     branches:
-      - master
+      - dev
 
 jobs:
   update-preview:
