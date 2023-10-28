@@ -11,7 +11,7 @@ function release() {
   cp target/release/anime ~/.anime/anime
   echo "copied anime to ~/.anime/anime"
 
-  cp src/config.yaml ~/.anime/config.yaml
+  cp config/config.yaml ~/.anime/config.yaml
   echo "copied config.yaml to ~/.anime/config.yaml"
 
   if ! grep -qF "$HOME/.anime/anime" ~/.zshrc; then

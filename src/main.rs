@@ -106,7 +106,7 @@ fn new_cmd() -> Option<Box<dyn Cmd>> {
 //
 // Put this script to .zshrc/.bashrc/.fishrc to run it
 fn main() {
-    let cfg: Config = serde_yaml::from_str(include_str!("config.yaml"))
+    let cfg: Config = serde_yaml::from_str(include_str!("../config/config.yaml"))
         .unwrap_or_else(|e| panic!("Failed to parse config.yaml: {}", e));
 
     let cmd = new_cmd()
